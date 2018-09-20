@@ -1,0 +1,33 @@
+_repo: Kristus-inkvisitorin-edessa_52698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fiodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoyevsky, F. M.
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2016-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52698'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Kristus inkvisitorin edessä
+url: http://www.gutenberg.org/ebooks/52698
